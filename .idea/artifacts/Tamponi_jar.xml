@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tamponi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tamponi_jar</output-path>
+    <root id="archive" name="Tamponi.jar">
+      <element id="module-output" name="Tamponi" />
+    </root>
+  </artifact>
+</component>
